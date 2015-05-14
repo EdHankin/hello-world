@@ -1,5 +1,5 @@
 # hello-world
-Just getting started
+Just getting started on Git
 
 As a Senior Technical Support Specilist at DigitalGlobe, synthesizing successful deliverables and operations from customer requirements and corporate assets is energizing and drives me to become a trusted adviser for both internal and external customers. 
 
@@ -9,14 +9,14 @@ I am experienced in implementing, managing, and supporting new online products a
 
 I have a passion for geospatial data and how resources can be leveraged to enrich insights and optimize the customer experience. I especially feel that cloud based, "big data", services enrich insight by reducing response times, exposing data to a larger audience, and increasing data efficacy.
 
-Specialties: 
+Specialties: <br/><br/>
 
-• Collaboration
-• Problem Solving
-• Managing Customer Expectations
-• Data Analysis
-• Testing
-• Agile Methodologies
-• Geographic Information Systems (GIS) 
-• Training (internal and external)
-• Remote Sensing
+• Collaboration <br/>
+• Problem Solving<br/>
+• Managing Customer Expectations<br/>
+• Data Analysis<br/>
+• Testing<br/>
+• Agile Methodologies<br/>
+• Geographic Information Systems (GIS) <br/>
+• Training (internal and external)<br/>
+• Remote Sensing<br/>
