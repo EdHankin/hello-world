@@ -1,5 +1,6 @@
 # hello-world
 Just getting started
+
 As a Senior Technical Support Specilist at DigitalGlobe, synthesizing successful deliverables and operations from customer requirements and corporate assets is energizing and drives me to become a trusted adviser for both internal and external customers. 
 
 Driven by results, I advocate for the customer by managing expectations and translating requirements into actionable tasks. These tasks are easily translated into work items and integrated into the Agile development process. 
